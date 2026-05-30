@@ -1,8 +1,10 @@
 # zuroking.github.io
-
 # Kronos Python Projects
 
-A collection of my Python projects.
+🌐 Website: [zuroking.github.io](https://zuroking.github.io)
+
+A collection of my Python projects by **Kronos / ZuroKing**.
+
 Developer: **Kronos / ZuroKing**
 Language: Python 🐍
 
@@ -11,147 +13,154 @@ Language: Python 🐍
 # 📂 Projects
 
 ## 🧮 Calculator V5
-
-An advanced calculator with many useful features.
-
+An advanced scientific calculator with many useful features.
 ### Features:
-
-* basic calculations,
-* percentages,
-* GCD and LCM,
-* prime numbers,
-* calculation history,
-* file handling,
-* improved interface.
+* basic calculations (+, -, *, /),
+* power and roots,
+* logarithms and trigonometry,
+* factorial,
+* quadratic equations,
+* complex numbers,
+* matrices (2x2),
+* percentages, GCD and LCM,
+* graph plotting (matplotlib),
+* calculation history saved to file.
 
 ---
 
 ## 💰 Money Convertor V2
-
-A currency converter application.
-
+A currency converter supporting 30 world currencies.
 ### Features:
-
-* currency conversion,
-* simple interface,
-* fast calculations.
+* convert between any currencies,
+* convert to ALL currencies at once,
+* updated rates (28.05.2026),
+* supported: KZT, USD, EUR, CNY, RUB, GBP, JPY, AED and more.
 
 ---
 
 ## 📝 Note-taking Application
-
-A simple note-taking program.
-
+A full-featured note management program.
 ### Features:
-
-* creating notes,
-* saving text,
-* reading notes,
+* create notes,
+* read notes,
+* delete notes,
+* save to .txt files,
 * easy-to-use interface.
 
 ---
 
 ## 🎯 Number Guess Game Hardcore Edition
-
 A hardcore version of the number guessing game.
-
 ### Features:
-
-* increased difficulty,
-* attempt system,
-* random number generation,
-* console interface.
+* guess a number from 1 to 1,000,000,
+* smart hints (much bigger / bigger / a little bigger),
+* attempt counter,
+* timer — shows how long it took.
 
 ---
 
 ## 🔐 Password Generator V2
-
-A secure password generator.
-
+A secure multi-alphabet password generator.
 ### Features:
-
 * random password generation,
-* customizable length,
+* customizable length (4–128 characters),
+* multi-alphabet support:
+  * English, Russian, Greek, Arabic, Chinese, Japanese,
 * special characters,
-* secure generation system.
+* generate multiple passwords at once.
 
 ---
 
 ## 🗄 Password Manager
-
-A password management application.
-
+An encrypted password management application.
 ### Features:
-
-* password storage,
-* data protection,
-* file handling,
-* convenient access.
+* store logins and passwords securely,
+* Fernet encryption (cryptography library),
+* add, view, find and delete passwords,
+* data saved in encrypted file.
 
 ---
 
 ## ✂️ Rock Paper Scissors Game
-
-Classic Rock Paper Scissors game.
-
+Classic Rock Paper Scissors against the computer.
 ### Features:
-
 * play against the computer,
-* random choices,
-* score tracking.
+* random computer choices,
+* score tracking,
+* play multiple rounds.
 
 ---
 
-## 📄 Text Reserve
-
-A simple text-saving application.
-
+## 📄 Text Reverser
+A text manipulation tool.
 ### Features:
-
-* writing text,
-* saving to files,
-* lightweight structure.
+* reverse text by characters,
+* reverse text by words,
+* lightweight and fast.
 
 ---
 
-## 🧰 Ultimate Toolkit
+## 🧰 Ultimate Toolkit 1.0
+A collection of 20 useful tools in one program.
+### Includes:
+* calculator, temperature converter, currency converter,
+* password generator, word counter, text reverser,
+* rock-paper-scissors, quiz, card guess, dice roller,
+* countdown timer, day of the week, number converter,
+* statistics, mini chatbot, fact of the day and more.
 
-A collection of useful tools combined into one program.
+---
 
-### May include:
-
-* calculator,
-* password generator,
-* notes,
-* mini utilities,
-* additional features.
+## 🧰 Kronos Toolkit 2.0
+An upgraded collection of 26 tools organized into categories.
+### Categories:
+* **Math** — calculator, area & volume, prime numbers, statistics, number converter, multiplication table,
+* **Converters** — temperature, currency,
+* **Text** — notepad, word counter, text tools, Morse code translator,
+* **Games** — number guess, rock-paper-scissors, quiz, card guess, dice roller, coin flipper,
+* **Life** — countdown timer, day of the week, age calculator, BMI calculator, todo list,
+* **Fun** — mini chatbot, fact of the day, random name picker.
 
 ---
 
 # ⚙️ Technologies
-
-* Python
-* HTML
+* Python 3.14
+* HTML / CSS
+* Groq API (AI Chatbot)
+* Cryptography (Fernet encryption)
+* Matplotlib (graph plotting)
+* Secrets (secure password generation)
 * File Handling
 * Console UI
-* Basic Algorithms
 
 ---
 
 # 🚀 Goals
-
 I am learning:
-
 * Python development,
-* AI creation,
+* AI and machine learning,
 * software architecture,
-* custom system development.
+* web development (HTML/CSS).
 
-My long-term goal is to build my own AI system called **Kronos AI**.
+**Long-term goals:**
+* Study Computer Science at **Nanjing University (NJU)** in China,
+* Work at a top AI lab (Alibaba DAMO, Baidu Research),
+* Build **Kronos AI** — a general-purpose AI competing with GPT, Grok and Gemini,
+* Launch Kronos AI by **2038**.
+
+---
+
+# 🤖 About Kronos AI
+Kronos AI will be a universal AI for everyone:
+* 🎖️ **Kronos Military** — technical military applications,
+* 👧 **Kronos Education** — learning for children,
+* 🎓 **Kronos Student** — help for students,
+* 🏠 **Kronos Home** — everyday advice for adults.
 
 ---
 
 # 📌 Author
-
 **Kronos / ZuroKing**
 Astana, Kazakhstan
+🌐 [zuroking.github.io](https://zuroking.github.io)
+✈️ Telegram: [@Zuroking](https://t.me/Zuroking)
