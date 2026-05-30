@@ -2,6 +2,7 @@
 # Kronos Python Projects
 
 🌐 Website: [zuroking.github.io](https://zuroking.github.io)
+🌐 [Русская версия / Russian version](README-RU.md)
 
 A collection of my Python projects by **Kronos / ZuroKing**.
 
@@ -11,6 +12,36 @@ Language: Python 🐍
 ---
 
 # 📂 Projects
+
+## ⚡ Kronos Calculator ULTRA *(NEW)*
+The most advanced calculator — built for engineers, scientists and chemists.
+### Modules (12 total):
+* Basic + Scientific calculator with custom expression parser (RPN),
+* Function graph plotting,
+* Mathematical analysis (derivatives & integrals),
+* Vectors and matrices (linear algebra),
+* Number theory and fractions,
+* Financial calculator (loans, deposits, ROI),
+* Statistics and data analysis,
+* Unit converter (length, mass, speed, temperature),
+* Formula reference book (geometry, physics),
+* Programmer mode (BIN/OCT/HEX, bitwise operations),
+* Secure password generator,
+* Calculation history system.
+
+---
+
+## 🧰 Kronos Toolkit 2.0
+An upgraded collection of 26 tools organized into categories.
+### Categories:
+* **Math** — calculator, area & volume, prime numbers, statistics, number converter, multiplication table,
+* **Converters** — temperature, currency,
+* **Text** — notepad, word counter, text tools, Morse code translator,
+* **Games** — number guess, rock-paper-scissors, quiz, card guess, dice roller, coin flipper,
+* **Life** — countdown timer, day of the week, age calculator, BMI calculator, todo list,
+* **Fun** — mini chatbot, fact of the day, random name picker.
+
+---
 
 ## 🧮 Calculator V5
 An advanced scientific calculator with many useful features.
@@ -111,18 +142,6 @@ A collection of 20 useful tools in one program.
 
 ---
 
-## 🧰 Kronos Toolkit 2.0
-An upgraded collection of 26 tools organized into categories.
-### Categories:
-* **Math** — calculator, area & volume, prime numbers, statistics, number converter, multiplication table,
-* **Converters** — temperature, currency,
-* **Text** — notepad, word counter, text tools, Morse code translator,
-* **Games** — number guess, rock-paper-scissors, quiz, card guess, dice roller, coin flipper,
-* **Life** — countdown timer, day of the week, age calculator, BMI calculator, todo list,
-* **Fun** — mini chatbot, fact of the day, random name picker.
-
----
-
 # ⚙️ Technologies
 * Python 3.14
 * HTML / CSS
@@ -130,6 +149,8 @@ An upgraded collection of 26 tools organized into categories.
 * Cryptography (Fernet encryption)
 * Matplotlib (graph plotting)
 * Secrets (secure password generation)
+* Dataclasses & Type Hints
+* Custom RPN Expression Parser
 * File Handling
 * Console UI
 
@@ -159,9 +180,14 @@ Kronos AI will be a universal AI for everyone:
 
 ---
 
+# 🚧 Coming Soon
+* 🤖 **KronosNanoV1** — first prototype of Kronos AI based on NanoGPT,
+* ⬆️ **Improved versions** of all existing projects.
+
+---
+
 # 📌 Author
 **Kronos / ZuroKing**
 Astana, Kazakhstan
 🌐 [zuroking.github.io](https://zuroking.github.io)
 ✈️ Telegram: [@Zuroking](https://t.me/Zuroking)
-🌐 [Русская версия / Russian version](README-RU.md)
