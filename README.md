@@ -164,3 +164,4 @@ Kronos AI will be a universal AI for everyone:
 Astana, Kazakhstan
 🌐 [zuroking.github.io](https://zuroking.github.io)
 ✈️ Telegram: [@Zuroking](https://t.me/Zuroking)
+🌐 [Русская версия / Russian version](README-RU.md)
